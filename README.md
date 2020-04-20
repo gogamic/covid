@@ -10,4 +10,4 @@ This non-profit project projects help you to track the effect of covid-19 in ind
 # THANKS TO
 1.thanks to api.covid19india.org for the data and api
 
-2.thanks to dhanush aditya for helping me in this project
+2.thanks to Dhanush Adithya for helping me in this project
