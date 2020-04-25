@@ -8,6 +8,6 @@ You can be infected by breathing in the virus if you are within close proximity 
 # ABOUT THIS PROJECT
 This non-profit project projects help you to track the effect of covid-19 in india the website link is https://covid.gamicnews.com
 # THANKS TO
-1.thanks to api.covid19india.org for the data and api
+1.thanks to <a href="https://www.covid19india.org/>covid19india.org</a> for the data and api
 
 2.thanks to Dhanush Adithya for helping me in this project
