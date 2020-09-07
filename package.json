@@ -10,9 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "newrelic": "^6.6.0",
-    "lodash": ">=4.17.19"
+    "express": "^4.17.1"
   },
   "engines": {
     "node": "12.x"
